@@ -7,8 +7,10 @@ I'm currently studying at high school.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaeol0415%2Fhit-counter&count_bg=%233B83E7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📫 Social 📫
-<span title="DM: saeol0415"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></span>
-<a href="https://github.com/saeol0415"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+> <span title="Email: saeol0415@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></span>
+> <span title="DM: @saeol0415"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></span>
+> <a href="https://github.com/saeol0415"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <br>
+> Hover for contacts
 
 ## 🍀 Studying 🍀
 <div align=c>
