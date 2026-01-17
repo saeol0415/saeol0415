@@ -1,2 +1,1 @@
-Hi, there. 👋   
-I'm currently studying at high school.
+Hi, there. 👋
